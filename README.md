@@ -5,7 +5,7 @@
 ![도커 생성](https://github.com/Sixlord/Grape_RemoteAccessTrojan/assets/157137422/cc40aa67-36ea-445a-a02e-3bad238cd1a5)
 
 RAT 실습
-![rat 실습](https://github.com/Sixlord/Grape_RemoteAccessTrojan/assets/157137422/dd420210-506c-46fb-b97c-a4eaa8296edd)
+![rat 실습](https://github.com/Sixlord/Grape_RemoteAccessTrojan/assets/157137422/8caa2982-6f9f-4349-b949-da3e7f17fc61)
 
 ---------------------------------------------------------------------------------------------------
 
